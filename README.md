@@ -1,5 +1,5 @@
 # python-arrayCollections_b-cw
-
+No submission. Score : 0
 ### Problem 1:
 Create a function with the variable below. After you create the variable do the instructions below that.
 ```
